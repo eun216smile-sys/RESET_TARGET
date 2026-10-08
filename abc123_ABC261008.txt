@@ -1,6 +1,6 @@
 ID=abc123
 CODE=ABC261008
 MACADDRESS=E0-C2-64-3C-9B-86
-allowed_sec=3600
+allowed_sec=300
 total_used_sec=0
-reset_version=0
+reset_version=1
